@@ -1,0 +1,101 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            64:00:7e:9b:73:a8:e8:e8:21:fb:ac:b7:66:6d:45:50:47:aa:46:b9
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=BR, O=TSI202402, OU=TSI202402 CA IDENTITY, CN=TSI202402 CA IDENTITY
+        Validity
+            Not Before: Feb  7 02:54:58 2025 GMT
+            Not After : Feb  7 02:54:58 2027 GMT
+        Subject: C=BR, ST=GO, L=MORRINHOS, O=TSI202402, OU=TSI202402 IDENTITY, CN=Samuel Toledo/emailAddress=damucod@gmail.com
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:b0:ae:b7:c1:b0:20:06:f0:35:97:78:1b:cd:5e:
+                    92:b9:d0:e9:e9:b1:2f:09:90:42:b3:53:88:5a:f7:
+                    fc:b4:93:9a:20:a2:3d:5c:5f:fc:5f:c1:5a:66:8d:
+                    8c:39:82:9b:34:67:75:f4:1c:b2:d0:0a:57:a9:f2:
+                    52:95:28:66:f0:41:bb:e6:11:ba:8e:9a:94:7c:5d:
+                    ec:1c:c3:d3:fa:ff:81:b0:74:bb:bf:25:20:c7:a6:
+                    72:64:f9:7c:47:1c:7e:e2:22:82:38:60:05:a6:cc:
+                    3f:b8:b1:0a:de:ef:66:43:1c:ae:45:15:b1:92:ad:
+                    e0:c3:25:1f:2d:ba:88:e9:cd:cc:f6:d4:57:fa:19:
+                    f0:77:60:f0:f8:3a:c0:d0:36:09:81:15:d9:94:36:
+                    42:c2:47:a0:7d:2f:7c:ff:9c:4e:65:b5:44:44:78:
+                    9a:38:79:22:47:ef:95:9b:76:da:7b:4a:f3:69:50:
+                    5f:b2:ca:f1:b6:c7:47:24:ef:9a:59:23:70:57:11:
+                    42:d1:c5:77:f7:6c:41:99:ec:54:a9:e7:67:9d:01:
+                    37:74:c1:8e:9c:38:3a:58:b1:82:85:21:6f:7f:52:
+                    33:35:ca:4e:b0:26:ad:29:9c:4a:8b:ec:49:ad:ac:
+                    a0:80:06:a1:98:7b:65:7b:e5:b6:7b:99:9c:77:31:
+                    dd:11
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Key Usage: critical
+                Digital Signature
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            X509v3 Extended Key Usage: 
+                E-mail Protection, TLS Web Client Authentication, Microsoft Smartcard Login
+            X509v3 Subject Key Identifier: 
+                4B:95:A7:5D:53:3B:84:BF:32:99:43:47:51:83:71:77:B5:CA:99:37
+            X509v3 Authority Key Identifier: 
+                A5:3B:D8:F7:E5:C6:4A:B4:02:39:5C:A3:3A:3D:31:CE:F7:59:AA:9E
+            Authority Information Access: 
+                CA Issuers - URI:http://pki.blue.se/identity-ca.cer
+                OCSP - URI:http://identity-ca.ocsp.blue.se
+            X509v3 CRL Distribution Points: 
+                Full Name:
+                  URI:http://pki.blue.se/identity-ca.crl
+            X509v3 Certificate Policies: 
+                Policy: Blue High Assurance
+            X509v3 Subject Alternative Name: 
+                email:damucod@gmail.com
+    Signature Algorithm: sha256WithRSAEncryption
+    Signature Value:
+        35:50:6c:c3:5d:4c:10:fa:3b:61:49:26:40:18:7f:27:e4:bd:
+        8a:9d:ea:4c:d0:a5:29:92:c5:3b:2f:ee:30:7e:62:db:17:97:
+        4a:3b:4c:c6:ee:ce:36:e6:b3:22:fb:2a:ea:41:dc:79:49:de:
+        69:44:48:dc:2b:44:a4:ed:01:24:c2:b6:24:17:b4:32:dd:b3:
+        3d:95:62:aa:c4:eb:90:54:cc:de:02:92:9a:41:42:40:2b:2f:
+        df:ef:8c:7f:50:06:a0:15:0a:31:d8:4c:3c:eb:47:3c:a6:73:
+        68:f6:41:3c:0a:1c:fd:d9:b9:d8:d9:02:7e:a6:53:c1:5c:33:
+        bc:c4:f1:d0:d0:d4:32:6e:18:15:3e:87:69:67:29:59:69:14:
+        55:5d:1e:54:e0:71:6c:84:c4:08:b1:83:51:d0:b3:d9:7c:c9:
+        2f:17:d6:3e:ac:48:23:cc:0d:46:31:ec:12:ec:15:f8:82:b6:
+        cb:d7:1a:22:fd:54:9a:f3:eb:bf:53:e2:13:34:3e:eb:96:41:
+        34:1d:43:f5:d4:43:c1:a7:5a:68:bc:ec:25:0d:b7:f7:35:86:
+        23:ed:52:5d:76:d1:64:c9:cf:bf:46:75:73:16:a0:81:de:c9:
+        30:b4:02:01:0a:b6:3b:5d:71:1b:da:a3:34:9c:87:36:e5:6f:
+        99:08:8e:6c
+-----BEGIN CERTIFICATE-----
+MIIE7TCCA9WgAwIBAgIUZAB+m3Oo6Ogh+6y3Zm1FUEeqRrkwDQYJKoZIhvcNAQEL
+BQAwYTELMAkGA1UEBhMCQlIxEjAQBgNVBAoMCVRTSTIwMjQwMjEeMBwGA1UECwwV
+VFNJMjAyNDAyIENBIElERU5USVRZMR4wHAYDVQQDDBVUU0kyMDI0MDIgQ0EgSURF
+TlRJVFkwHhcNMjUwMjA3MDI1NDU4WhcNMjcwMjA3MDI1NDU4WjCBmTELMAkGA1UE
+BhMCQlIxCzAJBgNVBAgMAkdPMRIwEAYDVQQHDAlNT1JSSU5IT1MxEjAQBgNVBAoM
+CVRTSTIwMjQwMjEbMBkGA1UECwwSVFNJMjAyNDAyIElERU5USVRZMRYwFAYDVQQD
+DA1TYW11ZWwgVG9sZWRvMSAwHgYJKoZIhvcNAQkBFhFkYW11Y29kQGdtYWlsLmNv
+bTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALCut8GwIAbwNZd4G81e
+krnQ6emxLwmQQrNTiFr3/LSTmiCiPVxf/F/BWmaNjDmCmzRndfQcstAKV6nyUpUo
+ZvBBu+YRuo6alHxd7BzD0/r/gbB0u78lIMemcmT5fEccfuIigjhgBabMP7ixCt7v
+ZkMcrkUVsZKt4MMlHy26iOnNzPbUV/oZ8Hdg8Pg6wNA2CYEV2ZQ2QsJHoH0vfP+c
+TmW1RER4mjh5IkfvlZt22ntK82lQX7LK8bbHRyTvmlkjcFcRQtHFd/dsQZnsVKnn
+Z50BN3TBjpw4OlixgoUhb39SMzXKTrAmrSmcSovsSa2soIAGoZh7ZXvltnuZnHcx
+3RECAwEAAaOCAWIwggFeMA4GA1UdDwEB/wQEAwIHgDAJBgNVHRMEAjAAMCkGA1Ud
+JQQiMCAGCCsGAQUFBwMEBggrBgEFBQcDAgYKKwYBBAGCNxQCAjAdBgNVHQ4EFgQU
+S5WnXVM7hL8ymUNHUYNxd7XKmTcwHwYDVR0jBBgwFoAUpTvY9+XGSrQCOVyjOj0x
+zvdZqp4wawYIKwYBBQUHAQEEXzBdMC4GCCsGAQUFBzAChiJodHRwOi8vcGtpLmJs
+dWUuc2UvaWRlbnRpdHktY2EuY2VyMCsGCCsGAQUFBzABhh9odHRwOi8vaWRlbnRp
+dHktY2Eub2NzcC5ibHVlLnNlMDMGA1UdHwQsMCowKKAmoCSGImh0dHA6Ly9wa2ku
+Ymx1ZS5zZS9pZGVudGl0eS1jYS5jcmwwFgYDVR0gBA8wDTALBgkrBgEEAQABBwow
+HAYDVR0RBBUwE4ERZGFtdWNvZEBnbWFpbC5jb20wDQYJKoZIhvcNAQELBQADggEB
+ADVQbMNdTBD6O2FJJkAYfyfkvYqd6kzQpSmSxTsv7jB+YtsXl0o7TMbuzjbmsyL7
+KupB3HlJ3mlESNwrRKTtASTCtiQXtDLdsz2VYqrE65BUzN4CkppBQkArL9/vjH9Q
+BqAVCjHYTDzrRzymc2j2QTwKHP3ZudjZAn6mU8FcM7zE8dDQ1DJuGBU+h2lnKVlp
+FFVdHlTgcWyExAixg1HQs9l8yS8X1j6sSCPMDUYx7BLsFfiCtsvXGiL9VJrz679T
+4hM0PuuWQTQdQ/XUQ8GnWmi87CUNt/c1hiPtUl120WTJz79GdXMWoIHeyTC0AgEK
+tjtdcRvaozSchzblb5kIjmw=
+-----END CERTIFICATE-----

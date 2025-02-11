@@ -1,0 +1,15 @@
+Comandos
+
+https://samueltoledo.tsi2024.labinfra.ti-educar.com.br/cgi/mostracert.py
+
+samueltoledo.tsi2024.labinfra.ti-educar.com.br
+
+https://samueltoledo.tsi2024.labinfra.ti-educar.com.br
+
+https://www.labinfra.ti-educar.com.br/cgi/labinfra.sh?NomeRemoto=samueltoledo
+
+https://samueltoledo.tsi2024.labinfra.ti-educar.com.br/cgi/mostracert.py
+
+VER LOG
+Get-Content C:\wamp64\logs\access.log -Wait
+

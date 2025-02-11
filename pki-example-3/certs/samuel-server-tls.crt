@@ -1,0 +1,97 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            66:60:2a:06:fe:65:02:bc:d1:63:7c:70:70:28:19:60:f0:fe:1c
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=BR, O=TSI202402, OU=TSI202402 CA COMPONENT, CN=TSI202402 CA COMPONENT
+        Validity
+            Not Before: Feb  8 16:45:33 2025 GMT
+            Not After : Feb  8 16:45:33 2026 GMT
+        Subject: C=BR, ST=GO, L=MORRINHOS, O=TSI202402, OU=TSI202402 CA COMPONENT, CN=Samuel Toledo
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:b0:a2:9c:88:92:5d:d9:20:23:34:71:ae:b3:41:
+                    98:4c:7a:a7:68:ac:74:44:04:89:ab:85:52:41:26:
+                    02:0e:6b:a5:85:dc:66:e2:e1:c2:0e:c1:a6:e6:a4:
+                    cb:31:8d:52:09:e3:c6:3c:a1:83:3f:be:2e:3c:ef:
+                    8b:23:8f:34:c3:d9:46:ff:5a:81:82:a6:56:f1:61:
+                    55:5f:78:6c:36:6b:0c:dc:e4:be:02:56:81:c7:d1:
+                    dd:ac:23:09:ba:c3:3f:a7:7b:1e:88:15:43:2d:92:
+                    86:61:71:47:f0:ee:87:62:30:20:31:75:41:18:0a:
+                    0e:d3:0b:a6:76:b4:69:16:39:ab:7e:ed:ed:5b:3f:
+                    e2:38:51:41:02:ac:af:0c:71:4f:20:76:7d:75:8c:
+                    06:e7:75:32:ee:f9:0d:85:fa:cb:c9:23:a6:f8:f2:
+                    62:9c:67:e6:c4:11:60:70:a9:71:78:3c:d8:e9:25:
+                    c4:98:57:ef:8b:0e:4f:69:0e:a9:32:20:82:0b:18:
+                    0f:41:ca:8c:93:1d:65:8e:93:c4:54:6a:f8:ec:0a:
+                    3b:d0:4b:dc:95:02:1a:73:00:5e:1c:e6:54:c3:59:
+                    3b:4f:b9:61:d7:c1:14:ca:8b:d6:5b:b4:07:a3:7a:
+                    bf:22:b0:14:18:d2:eb:4f:92:ed:4b:8f:26:e3:9a:
+                    1c:af
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Key Usage: critical
+                Digital Signature
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            X509v3 Extended Key Usage: 
+                TLS Web Client Authentication
+            X509v3 Subject Key Identifier: 
+                D8:76:BC:74:7D:20:3D:E7:7E:DF:62:33:39:90:98:DD:4B:04:A0:02
+            X509v3 Authority Key Identifier: 
+                73:BF:F5:F5:21:D4:62:89:CA:AB:84:86:58:42:B4:42:D9:BA:11:10
+            Authority Information Access: 
+                CA Issuers - URI:http://pki.blue.se/component-ca.cer
+                OCSP - URI:http://component-ca.ocsp.blue.se
+            X509v3 CRL Distribution Points: 
+                Full Name:
+                  URI:http://pki.blue.se/component-ca.crl
+            X509v3 Certificate Policies: 
+                Policy: Blue Medium Assurance
+    Signature Algorithm: sha256WithRSAEncryption
+    Signature Value:
+        32:88:d3:8d:d6:08:a1:e6:93:59:76:3c:20:5b:9b:68:8b:fd:
+        dc:dc:d3:7e:8d:fa:c5:06:fd:37:02:b1:35:d1:c0:e6:bd:de:
+        86:92:a4:bc:ba:e2:9d:85:37:ff:08:2d:25:aa:19:eb:0f:9d:
+        76:0f:f4:f5:de:48:70:a5:cb:d5:e6:7a:75:c3:b2:17:c1:0f:
+        d0:bd:bb:a2:d6:8a:74:a9:f2:de:d6:70:c0:27:3d:4d:8f:35:
+        1e:ea:89:31:3a:01:2c:13:bd:70:3f:b7:83:6b:05:72:7e:1b:
+        dc:a9:8d:37:48:6d:f6:c8:fe:32:18:6a:c0:4c:13:28:7c:3f:
+        75:b1:1c:8d:57:16:df:00:49:84:d6:74:3e:b3:09:d8:3e:dd:
+        7d:6c:6f:41:34:e0:95:48:26:e3:bd:7f:e2:12:06:a8:69:7b:
+        fe:35:80:19:57:5f:50:5e:c9:38:da:a1:d5:91:f2:76:06:61:
+        07:e3:02:f9:64:68:a3:b9:f5:8a:71:f3:c0:31:43:29:47:3c:
+        66:e8:a6:da:dd:31:0a:b3:3d:2e:7a:2e:52:2b:41:a4:b0:e5:
+        fe:b4:6e:c6:5b:2f:ce:f1:cf:f3:5e:e1:89:8d:96:da:57:5d:
+        37:11:df:8f:01:cb:83:84:3d:c3:10:7d:cb:38:fc:95:98:45:
+        27:64:7c:85
+-----BEGIN CERTIFICATE-----
+MIIEnjCCA4agAwIBAgITZmAqBv5lArzRY3xwcCgZYPD+HDANBgkqhkiG9w0BAQsF
+ADBjMQswCQYDVQQGEwJCUjESMBAGA1UECgwJVFNJMjAyNDAyMR8wHQYDVQQLDBZU
+U0kyMDI0MDIgQ0EgQ09NUE9ORU5UMR8wHQYDVQQDDBZUU0kyMDI0MDIgQ0EgQ09N
+UE9ORU5UMB4XDTI1MDIwODE2NDUzM1oXDTI2MDIwODE2NDUzM1owezELMAkGA1UE
+BhMCQlIxCzAJBgNVBAgMAkdPMRIwEAYDVQQHDAlNT1JSSU5IT1MxEjAQBgNVBAoM
+CVRTSTIwMjQwMjEfMB0GA1UECwwWVFNJMjAyNDAyIENBIENPTVBPTkVOVDEWMBQG
+A1UEAwwNU2FtdWVsIFRvbGVkbzCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoC
+ggEBALCinIiSXdkgIzRxrrNBmEx6p2isdEQEiauFUkEmAg5rpYXcZuLhwg7Bpuak
+yzGNUgnjxjyhgz++LjzviyOPNMPZRv9agYKmVvFhVV94bDZrDNzkvgJWgcfR3awj
+CbrDP6d7HogVQy2ShmFxR/Duh2IwIDF1QRgKDtMLpna0aRY5q37t7Vs/4jhRQQKs
+rwxxTyB2fXWMBud1Mu75DYX6y8kjpvjyYpxn5sQRYHCpcXg82OklxJhX74sOT2kO
+qTIgggsYD0HKjJMdZY6TxFRq+OwKO9BL3JUCGnMAXhzmVMNZO0+5YdfBFMqL1lu0
+B6N6vyKwFBjS60+S7UuPJuOaHK8CAwEAAaOCATEwggEtMA4GA1UdDwEB/wQEAwIH
+gDAJBgNVHRMEAjAAMBMGA1UdJQQMMAoGCCsGAQUFBwMCMB0GA1UdDgQWBBTYdrx0
+fSA9537fYjM5kJjdSwSgAjAfBgNVHSMEGDAWgBRzv/X1IdRiicqrhIZYQrRC2boR
+EDBtBggrBgEFBQcBAQRhMF8wLwYIKwYBBQUHMAKGI2h0dHA6Ly9wa2kuYmx1ZS5z
+ZS9jb21wb25lbnQtY2EuY2VyMCwGCCsGAQUFBzABhiBodHRwOi8vY29tcG9uZW50
+LWNhLm9jc3AuYmx1ZS5zZTA0BgNVHR8ELTArMCmgJ6AlhiNodHRwOi8vcGtpLmJs
+dWUuc2UvY29tcG9uZW50LWNhLmNybDAWBgNVHSAEDzANMAsGCSsGAQQBAAEHCDAN
+BgkqhkiG9w0BAQsFAAOCAQEAMojTjdYIoeaTWXY8IFubaIv93NzTfo36xQb9NwKx
+NdHA5r3ehpKkvLrinYU3/wgtJaoZ6w+ddg/09d5IcKXL1eZ6dcOyF8EP0L27otaK
+dKny3tZwwCc9TY81HuqJMToBLBO9cD+3g2sFcn4b3KmNN0ht9sj+MhhqwEwTKHw/
+dbEcjVcW3wBJhNZ0PrMJ2D7dfWxvQTTglUgm471/4hIGqGl7/jWAGVdfUF7JONqh
+1ZHydgZhB+MC+WRoo7n1inHzwDFDKUc8Zuim2t0xCrM9LnouUitBpLDl/rRuxlsv
+zvHP817hiY2W2lddNxHfjwHLg4Q9wxB9yzj8lZhFJ2R8hQ==
+-----END CERTIFICATE-----

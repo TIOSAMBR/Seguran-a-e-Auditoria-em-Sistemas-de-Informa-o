@@ -1,0 +1,95 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            6e:f3:96:20:b1:c2:fd:4b:fd:42:a0:08:d2:2b:a8:dc:aa:c2:4e:ad
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=BR, O=TSI202402, OU=TSI202402 - CA, CN=TSI202402 - CA
+        Validity
+            Not Before: Nov 12 21:23:39 2024 GMT
+            Not After : Nov 12 21:23:39 2044 GMT
+        Subject: C=BR, O=TSI202402, OU=TSI2024 - Certificadora de Servicos, CN=TSI Certificados - TLS CA
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:df:2f:10:24:24:68:47:ad:c2:3c:be:77:47:86:
+                    8a:46:d9:12:f3:ae:3c:6d:b6:e2:a7:92:2a:53:e6:
+                    78:c6:c0:25:41:23:3c:04:d0:d1:3c:3a:26:fa:56:
+                    fd:98:b2:ba:d8:40:40:c9:61:95:7a:cf:6d:57:ad:
+                    56:91:b4:0c:b6:c2:40:63:2e:e3:7f:80:b7:70:db:
+                    df:7f:38:78:d1:27:d0:9a:b7:8e:b6:04:f3:d5:25:
+                    dd:a8:bb:c9:b6:54:4b:96:6f:c4:d4:53:2c:30:7c:
+                    35:a9:32:52:8f:75:f1:d5:29:b7:4f:ae:af:c0:0c:
+                    64:f5:37:bd:96:d9:ca:1c:b5:93:a5:aa:4c:49:aa:
+                    13:bf:7f:d2:4c:48:e9:b2:eb:7e:4e:59:ec:e7:f5:
+                    d1:cc:7c:af:53:09:5e:d7:8b:5e:c5:44:2e:ba:4f:
+                    58:d9:f6:18:73:82:b1:78:0d:a4:5c:48:0f:5f:dc:
+                    dd:a3:54:ce:f4:7e:32:0f:1e:7d:b9:5e:3e:eb:fc:
+                    f0:25:c0:41:c7:c8:99:a2:e6:3f:15:0c:94:55:ed:
+                    1c:67:c8:67:e6:ad:8f:e3:16:36:2d:4d:92:2f:2e:
+                    c7:15:a5:95:46:77:18:64:ed:4f:90:c2:75:7f:53:
+                    9b:59:d7:99:e3:21:6f:23:de:f9:71:e5:b0:ee:20:
+                    3e:59
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Key Usage: critical
+                Certificate Sign, CRL Sign
+            X509v3 Basic Constraints: critical
+                CA:TRUE
+            X509v3 Subject Key Identifier: 
+                D9:CB:F6:FD:D1:F7:52:6A:C6:B9:41:3F:62:AE:B0:A1:93:E3:1B:13
+            X509v3 Authority Key Identifier: 
+                5E:2D:2F:7B:48:FB:02:F1:2A:CA:C8:BA:C5:09:36:0E:A4:97:18:44
+            Authority Information Access: 
+                CA Issuers - URI:http://tsi2024.mho.ifgoiano.br/root-ca.cer
+            X509v3 CRL Distribution Points: 
+                Full Name:
+                  URI:http://tsi2024.mho.ifgoiano.br/root-ca.crl
+            X509v3 Certificate Policies: 
+                Policy: TSI Verificacao de Alta seguranca
+                Policy: TSI verificacao de seguranca nivel Medio
+                Policy: TSI registro de TS - Time Stamping
+    Signature Algorithm: sha256WithRSAEncryption
+    Signature Value:
+        6a:98:07:05:b4:c5:0f:92:f3:47:90:af:91:5d:49:6c:df:1d:
+        e6:d8:a7:30:cb:ce:42:18:d3:b5:f5:dd:09:ff:78:31:87:34:
+        88:45:0d:5e:f0:69:17:5c:74:a9:3c:0c:14:c4:b6:bd:db:32:
+        07:45:a4:95:a8:71:e3:5b:b4:ed:9b:e3:c1:2b:14:a4:45:b0:
+        7e:50:e8:05:e8:62:6b:76:7c:42:4b:7b:03:ee:08:6c:3b:55:
+        14:89:56:a1:b4:1d:af:49:73:13:a5:29:83:61:0a:89:8c:58:
+        73:40:f0:a2:54:c9:dd:f3:4e:b1:4b:97:ac:69:ff:7c:3d:5b:
+        ff:21:6c:3c:3f:14:78:4a:a2:ab:93:d9:a8:3b:ca:eb:20:08:
+        f2:8c:91:82:cc:11:a3:a3:28:bf:57:70:03:bc:4b:6f:4e:32:
+        d7:14:b1:65:46:e6:4f:23:5d:e4:aa:78:08:13:7e:7a:c1:8e:
+        62:12:ea:f3:b7:cb:8e:30:c9:ec:04:55:ee:f5:24:61:e0:98:
+        2b:94:7a:ba:28:2e:d8:91:9b:a7:6c:7a:7f:97:5f:b8:aa:9b:
+        4e:51:c2:f1:c6:d7:98:d2:e2:9b:80:10:76:91:b1:bd:bf:af:
+        1a:ee:5d:0f:b7:11:ef:7b:02:81:8d:fe:80:2d:36:0e:20:f1:
+        21:75:9d:ba
+-----BEGIN CERTIFICATE-----
+MIIEcjCCA1qgAwIBAgIUbvOWILHC/Uv9QqAI0iuo3KrCTq0wDQYJKoZIhvcNAQEL
+BQAwUzELMAkGA1UEBhMCQlIxEjAQBgNVBAoMCVRTSTIwMjQwMjEXMBUGA1UECwwO
+VFNJMjAyNDAyIC0gQ0ExFzAVBgNVBAMMDlRTSTIwMjQwMiAtIENBMB4XDTI0MTEx
+MjIxMjMzOVoXDTQ0MTExMjIxMjMzOVowczELMAkGA1UEBhMCQlIxEjAQBgNVBAoM
+CVRTSTIwMjQwMjEsMCoGA1UECwwjVFNJMjAyNCAtIENlcnRpZmljYWRvcmEgZGUg
+U2Vydmljb3MxIjAgBgNVBAMMGVRTSSBDZXJ0aWZpY2Fkb3MgLSBUTFMgQ0EwggEi
+MA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDfLxAkJGhHrcI8vndHhopG2RLz
+rjxttuKnkipT5njGwCVBIzwE0NE8Oib6Vv2YsrrYQEDJYZV6z21XrVaRtAy2wkBj
+LuN/gLdw299/OHjRJ9Cat462BPPVJd2ou8m2VEuWb8TUUywwfDWpMlKPdfHVKbdP
+rq/ADGT1N72W2coctZOlqkxJqhO/f9JMSOmy635OWezn9dHMfK9TCV7Xi17FRC66
+T1jZ9hhzgrF4DaRcSA9f3N2jVM70fjIPHn25Xj7r/PAlwEHHyJmi5j8VDJRV7Rxn
+yGfmrY/jFjYtTZIvLscVpZVGdxhk7U+QwnV/U5tZ15njIW8j3vlx5bDuID5ZAgMB
+AAGjggEcMIIBGDAOBgNVHQ8BAf8EBAMCAQYwDwYDVR0TAQH/BAUwAwEB/zAdBgNV
+HQ4EFgQU2cv2/dH3UmrGuUE/Yq6woZPjGxMwHwYDVR0jBBgwFoAUXi0ve0j7AvEq
+ysi6xQk2DqSXGEQwRgYIKwYBBQUHAQEEOjA4MDYGCCsGAQUFBzAChipodHRwOi8v
+dHNpMjAyNC5taG8uaWZnb2lhbm8uYnIvcm9vdC1jYS5jZXIwOwYDVR0fBDQwMjAw
+oC6gLIYqaHR0cDovL3RzaTIwMjQubWhvLmlmZ29pYW5vLmJyL3Jvb3QtY2EuY3Js
+MDAGA1UdIAQpMCcwCwYJKwYBBAEAAQcKMAsGCSsGAQQBAAEHCDALBgkrBgEEAQAB
+CAIwDQYJKoZIhvcNAQELBQADggEBAGqYBwW0xQ+S80eQr5FdSWzfHebYpzDLzkIY
+07X13Qn/eDGHNIhFDV7waRdcdKk8DBTEtr3bMgdFpJWoceNbtO2b48ErFKRFsH5Q
+6AXoYmt2fEJLewPuCGw7VRSJVqG0Ha9JcxOlKYNhComMWHNA8KJUyd3zTrFLl6xp
+/3w9W/8hbDw/FHhKoquT2ag7yusgCPKMkYLMEaOjKL9XcAO8S29OMtcUsWVG5k8j
+XeSqeAgTfnrBjmIS6vO3y44wyewEVe71JGHgmCuUerooLtiRm6dsen+XX7iqm05R
+wvHG15jS4puAEHaRsb2/rxruXQ+3Ee97AoGN/oAtNg4g8SF1nbo=
+-----END CERTIFICATE-----
